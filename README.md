@@ -1,10 +1,10 @@
+![Raccoon Rush](/src/main/resources/menu/menu_title.png?raw=true)
+
 # CMPT276S24_group12: Raccoon Rush
 This is the github repository for Group 12, CMPT 276.  
 
-![Raccoon Rush](https://github.sfu.ca/gna22/CMPT276S24_group12/blob/main/src/main/resources/menu/menu_title.png?raw=true)
-
-## Game Trailer:
-A trailer demonstrating highlights of the game can be viewed [here](https://www.youtube.com/watch?v=FV8iqgWPEO8).
+## Watch the Trailer Below!
+[![Watch the video](https://img.youtube.com/vi/FV8iqgWPEO8/hqdefault.jpg)](https://www.youtube.com/embed/FV8iqgWPEO8)
 
 ## Group Members:
 - Max Bodifee
