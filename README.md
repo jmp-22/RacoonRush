@@ -1,9 +1,10 @@
 ![Raccoon Rush](/src/main/resources/menu/menu_title.png?raw=true)
 
-# CMPT276S24_group12: Raccoon Rush
-This is the github repository for Group 12, CMPT 276.  
+# Raccoon Rush
+**Collect donuts and avoid enemies to escape the campus!**
+> This game was created for CMPT 276 at Simon Fraser University
 
-## Watch the Trailer Below!
+## Watch the Trailer!
 [![Watch the video](https://img.youtube.com/vi/FV8iqgWPEO8/hqdefault.jpg)](https://www.youtube.com/embed/FV8iqgWPEO8)
 
 ## Group Members:
