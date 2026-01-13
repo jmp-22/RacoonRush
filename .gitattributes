@@ -1,2 +1,5 @@
 # Mark files in the 'docs' directory as documentation
 Artifacts/Javadocs/* linguist-documentation
+
+# Ignore specific file extensions (e.g., HTML files)
+*.html linguist-vendored 
